@@ -3761,14 +3761,14 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #b0b0b0;
+				background: #91775c;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #9895a1, #000000);
-				background-image: -webkit-linear-gradient(to right, #9895a1, #000000);
-				background-image: -ms-linear-gradient(to right, #9895a1, #000000);
-				background-image: linear-gradient(to right, #9895a1, #000000);
+				background-image: -moz-linear-gradient(to right, #9c8c7b, #563a1d);
+				background-image: -webkit-linear-gradient(to right, #9c8c7b, #563a1d);
+				background-image: -ms-linear-gradient(to right, #9c8c7b, #563a1d);
+				background-image: linear-gradient(to right, #9c8c7b, #563a1d);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
